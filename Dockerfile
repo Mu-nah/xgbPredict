@@ -15,4 +15,4 @@ RUN pip install --no-cache-dir \
 
 COPY . .
 
-CMD ["python", "xgb_predictor.py"]
+CMD ["python", "xgbNoSt.py"]
